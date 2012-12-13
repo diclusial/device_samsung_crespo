@@ -18,8 +18,6 @@
 */
 -->
 <resources>
-
-    <!-- Size of the clock font in keyguard's status view -->
+    <!-- Height of the sliding KeyguardSecurityContainer (includes 2x keyguard_security_view_margin) -->
     <dimen name="keyguard_security_height">348dp</dimen>
-
 </resources>
