@@ -34,11 +34,11 @@ PRODUCT_DEVICE := crespo
 PRODUCT_BRAND := Google
 PRODUCT_MODEL := Nexus S
 PRODUCT_MANUFACTURER := Samsung
-PLATFORM_VERSION := 4.2.1
+PLATFORM_VERSION := 4.2.2
 
 # Use build.prop values similar to Google's values
 PRODUCT_BUILD_PROP_OVERRIDES := \
     PRODUCT_NAME=soju \
-    BUILD_FINGERPRINT="google/soju/crespo:4.2.1/JOP40D/533553:user/release-keys" \
-    PRIVATE_BUILD_DESC="soju-user 4.2.1 JOP40D 533553 release-keys" \
-    BUILD_NUMBER=533553
+    BUILD_FINGERPRINT="google/soju/crespo:4.2.2/JDQ39/573038:user/release-keys" \
+    PRIVATE_BUILD_DESC="soju-user 4.2.2 JDQ39 573038 release-keys" \
+    BUILD_NUMBER=573038
